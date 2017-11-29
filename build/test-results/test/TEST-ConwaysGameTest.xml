@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConwaysGameTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-11-26T22:32:25" hostname="USCONJGREGORI1" time="0.047">
+  <properties/>
+  <testcase name="testAllAlive" classname="ConwaysGameTest" time="0.023"/>
+  <testcase name="testAllDead" classname="ConwaysGameTest" time="0.002"/>
+  <testcase name="testSubsequentTurn" classname="ConwaysGameTest" time="0.006"/>
+  <testcase name="testBasic1" classname="ConwaysGameTest" time="0.012"/>
+  <testcase name="testBasic2" classname="ConwaysGameTest" time="0.003"/>
+  <system-out><![CDATA[+ - - - - - - + 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
++ - - - - - - + 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- + - - - - - - 
+- + - - - + + + 
+- + - - - - - - 
+- - - - - - - - 
+- - - + + - - - 
+- - - + + - - - 
+- - - - - - + - 
++ + + - - - + - 
+- - - - - - + - 
+- - - - - - - - 
+- - - + + - - - 
+- - - + + - - - 
+- + - - - - - - 
+- + - - - + + + 
+- + - - - - - - 
+- - - - - - - - 
+- - - + + - - - 
+- - - + + - - - 
+- - - - - - - - 
++ + - + - + - + 
++ + - + - + - + 
++ + - + - + - + 
++ + - + - + - + 
+- - - - - - - - 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
